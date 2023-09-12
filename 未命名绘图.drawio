@@ -1,6 +1,6 @@
-<mxfile modified="2023-09-12T08:38:52.058Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.1938.76" etag="2JWcw5QSpNJIfcWSrZw9" version="21.7.2" type="github">
+<mxfile modified="2023-09-12T08:42:27.269Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.1938.76" etag="W72uutsXkHoyZNva8813" version="21.7.2" type="github">
   <diagram id="1JJ-UvxjRfw-XplDersZ" name="Page-1">
-    <mxGraphModel dx="3443" dy="2735" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1968" dy="1917" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -133,6 +133,9 @@
         <mxCell id="yJ9xiVmko6FUMowYA85W-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.339;entryY=0.007;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="yJ9xiVmko6FUMowYA85W-51" target="yJ9xiVmko6FUMowYA85W-50">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="yJ9xiVmko6FUMowYA85W-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="yJ9xiVmko6FUMowYA85W-51" target="yJ9xiVmko6FUMowYA85W-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="yJ9xiVmko6FUMowYA85W-51" value="数据上报服务" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="1430" y="-380" width="120" height="60" as="geometry" />
         </mxCell>
@@ -178,6 +181,9 @@
         </mxCell>
         <mxCell id="yJ9xiVmko6FUMowYA85W-59" value="上报外挂服务" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="1030" y="-380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yJ9xiVmko6FUMowYA85W-67" value="OBS" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1440" y="-530" width="100" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
