@@ -1,4 +1,4 @@
-<mxfile modified="2023-09-14T08:40:30.370Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.1938.76" etag="2gYfP6pDKqHBBghg3P8E" version="21.7.5" type="github">
+<mxfile modified="2023-09-14T09:51:37.669Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.1938.76" etag="5z956UgrCEv7mqEQ6cd4" version="21.7.5" type="github">
   <diagram id="1JJ-UvxjRfw-XplDersZ" name="Page-1">
     <mxGraphModel dx="2066" dy="2799" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="yJ9xiVmko6FUMowYA85W-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="yJ9xiVmko6FUMowYA85W-1" target="yJ9xiVmko6FUMowYA85W-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yJ9xiVmko6FUMowYA85W-1" value="ships_flows&lt;br&gt;[500Gi]&lt;br&gt;[pxc]" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
+        <mxCell id="yJ9xiVmko6FUMowYA85W-1" value="ships_flows&lt;br&gt;[600Gi]&lt;br&gt;[pxc]" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
           <mxGeometry x="1475" y="359" width="70" height="80" as="geometry" />
         </mxCell>
         <mxCell id="yJ9xiVmko6FUMowYA85W-2" value="ecs_merchant_ship&lt;div&gt;[50G]&amp;nbsp;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
